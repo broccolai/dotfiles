@@ -1,0 +1,36 @@
+window:
+  padding:
+    x: 16
+    y: 16
+
+  dynamic_padding: true
+
+  decorations: none
+
+  title: term
+
+font:
+  normal:
+    family: mplus Nerd Font Mono
+  bold:
+    family: mplus Nerd Font Mono
+    style: Regular
+  italic:
+    family: mplus Nerd Font Mono
+  bold_italic:
+    family: mplus Nerd Font Mono
+
+  size: 10.0
+
+  offset:
+    x: 3
+    y: 0
+
+  use_thin_strokes: true
+
+draw_bold_text_with_bright_colors: true
+
+colors:
+  primary:
+    background: '#0e1014'
+    foreground: '#eceded'
